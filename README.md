@@ -7,7 +7,9 @@ It will work with nema 23 stepper motor and it will have reduction ratio 20:1.
 
 
 v0.1
-Prototype almost finished.
+Comment:
+- prototype almost finished. Needs improvement and adaptations to the six axis manipulator axis. Will run some hands on tests after completion of the project.
+
 Issues:
 - flexspline breaks during printing because of low quality PETG filament
 - flexspline skips teeth due to poor material quality
