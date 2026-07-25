@@ -12,5 +12,6 @@ Issues:
 - flexspline breaks during printing because of low quality PETG filament
 - flexspline skips teeth due to poor material quality
 - flexspline breaks after a couple of iterations
+  
 Fixes:
 - printing flexspline in PA12
