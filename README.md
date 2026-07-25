@@ -9,7 +9,7 @@ It will work with nema 23 stepper motor and it will have reduction ratio 20:1.
 
 
                                                                                                                                                                       
-v0.1                                                                                                                                                                  
+## v0.1                                                                                                                                                                  
 Comment:                                                                                                                                                              
 - prototype almost finished. Needs improvement and adaptations to the six axis manipulator axis. Will run some hands on tests after completion of the project.        
                                                                                                                                                                       
