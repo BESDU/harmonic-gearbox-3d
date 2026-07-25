@@ -26,4 +26,8 @@ Images:
                                                                                                                                                                       
 <img width="400" height="532" src="https://github.com/user-attachments/assets/63dba67e-7ff2-4497-8851-3374ab98e03b" />                                                
                                                                                                                                                                       
+## Acknowledgements
 
+Special thanks to SKF for supporting this project by providing bearings used in the prototype of the harmonic gearbox.
+
+The support made it possible to test the design using high-quality industrial components.
