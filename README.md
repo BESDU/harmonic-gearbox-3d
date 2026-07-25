@@ -19,4 +19,4 @@ Fixes:
 - printing flexspline in PA12
 
 Current preview:
-<img width="500" height="600" alt="IMG_7060" src="https://github.com/user-attachments/assets/63dba67e-7ff2-4497-8851-3374ab98e03b" />
+<img width="400" height="600" alt="IMG_7060" src="https://github.com/user-attachments/assets/63dba67e-7ff2-4497-8851-3374ab98e03b" />
